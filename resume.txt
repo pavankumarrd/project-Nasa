@@ -2,3 +2,7 @@ Name:
 salary:
 working:
 hours:
+ctc:
+expected ctc:
+last hours:
+notice period:
