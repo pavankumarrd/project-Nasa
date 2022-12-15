@@ -6,3 +6,4 @@ ctc:
 expected ctc:
 last hours:
 notice period:
+month:
